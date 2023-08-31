@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	padding: 15px;
+	width: 100%;
+	font-family: "Montserrat", sans-serif;
+}
+
+#title {
+	font-size: 22px;
+	padding-bottom: 10px;
+}
+
+.container {
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+}
+
+/* HTML Tutorial | HTML  */
+
+a {
+	text-decoration: none;
+	width: 60%;
+	height: 100px;
+}
